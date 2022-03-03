@@ -5,10 +5,10 @@ import org.apache.wicket.markup.html.WebPage;
 import org.wicketstuff.annotation.mount.MountPath;
 
 @WicketHomePage
-@MountPath("Home")
-public class HomePage extends WebPage {
+@MountPath("Login")
+public class LoginPage extends WebPage {
 
-    public HomePage() {
+    public LoginPage() {
 
     }
 
