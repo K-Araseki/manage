@@ -8,6 +8,8 @@ spring ~ wicketの設定
 ※権限付与されたアカウントから開く
 https://drive.google.com/file/d/1av83fLOI032JiPmCQgk8fPDk39uY5pUZ/view?usp=sharing
 https://drive.google.com/file/d/1c8PDJIs3UcxunowEDhWiSyd2W1Ew4AHD/view?usp=sharing
+デザインを行っていくうえで適宜.cssまたは.jsを切り離す
+※まずは.html内にべた書き
 
 # データベースの設定
  
