@@ -9,6 +9,7 @@ import org.wicketstuff.annotation.mount.MountPath;
 public class LoginPage extends WebPage {
 
     // コメント文いれてみた
+    // 20220304 22:15
     public LoginPage() {
 
     }

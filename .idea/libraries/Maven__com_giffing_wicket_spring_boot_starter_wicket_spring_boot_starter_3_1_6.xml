@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.giffing.wicket.spring.boot.starter:wicket-spring-boot-starter:3.1.6">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/giffing/wicket/spring/boot/starter/wicket-spring-boot-starter/3.1.6/wicket-spring-boot-starter-3.1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/giffing/wicket/spring/boot/starter/wicket-spring-boot-starter/3.1.6/wicket-spring-boot-starter-3.1.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/giffing/wicket/spring/boot/starter/wicket-spring-boot-starter/3.1.6/wicket-spring-boot-starter-3.1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
