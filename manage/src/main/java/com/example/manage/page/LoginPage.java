@@ -8,6 +8,7 @@ import org.wicketstuff.annotation.mount.MountPath;
 @MountPath("Login")
 public class LoginPage extends WebPage {
 
+    // コメント文いれてみた
     public LoginPage() {
 
     }
