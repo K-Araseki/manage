@@ -10,7 +10,7 @@ public class LoginPage extends WebPage {
 
     // コメント文いれてみた
     // 20220304 22:15
-    //　コメント追記（荒関）
+    //　コメント追記（荒関・椎原）
     public LoginPage() {
 
     }
