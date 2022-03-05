@@ -6,6 +6,7 @@ spring ~ wicketの設定
 # 開発を行う前に（基本的なgitコマンドの使い方）
 毎回修正内容をローカルに反映する  
 git pull origin master  
+  
 修正したファイルをアップする  
 git add .  
 git commit -m "変更内容"  
