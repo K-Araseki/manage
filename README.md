@@ -7,8 +7,8 @@ spring ~ wicketの設定
 毎回修正内容をローカルに反映する　
 git pull origin master
 修正したファイルをアップする  
-git add .
-git commit -m "変更内容"
+git add .  
+git commit -m "変更内容"  
 git push  
   
 コンフリクトが発生した場合はグループで共有する
