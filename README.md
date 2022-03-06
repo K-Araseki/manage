@@ -18,11 +18,13 @@ git push
 # 各ページの作成
 以前作成した画面遷移図を参考にページを作成する  
 ※権限付与されたアカウントから開く  
-講師ページ：https://drive.google.com/file/d/1av83fLOI032JiPmCQgk8fPDk39uY5pUZ/view?usp=sharing  
-生徒ページ：https://drive.google.com/file/d/1c8PDJIs3UcxunowEDhWiSyd2W1Ew4AHD/view?usp=sharing  
+[講師ページ](https://drive.google.com/file/d/1av83fLOI032JiPmCQgk8fPDk39uY5pUZ/view?usp=sharing)  
+[生徒ページ](https://drive.google.com/file/d/1c8PDJIs3UcxunowEDhWiSyd2W1Ew4AHD/view?usp=sharing)  
   
 デザインを行っていくうえで適宜.cssまたは.jsを切り離す  
-※まずは.html内にべた書き
+※まずは.html内にべた書き  
+  
+残りは講師ページ　←　優先
 
 # データベースの設定
  
