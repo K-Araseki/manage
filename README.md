@@ -19,8 +19,20 @@ git push
 見出し ： # 見出し(#の数に応じて大きさが変化)　※#の後に空白  
 改行 ： 2マス空白 or ＜br＞を挿入  
 文章にリンク添付 ： [文章]（URL）  
-画像の挿入 ： だるいので省略（後で書く）
-![画像例](images/figure_aisatsu_akusyu_kyousyu.png)
+  
+画像の挿入 ： ![タイトル](URL)    
+imagesフォルダを追加してあるのでその中に画像を保存する（初回のpullでフォルダが自動生成されるはず）   
+以下、保存方法  
+＜方法1＞git bash    
+ローカルのmanage/imagesの中に挿入したい画像を保存  
+git add .  
+git commit -m ""  
+git push  
+のいつもの流れで反映する  
+＜方法2＞　github  
+github上でimagesを開きadd fileから写真を保存  
+  
+※URLはgit hub上で入手する（images/~でもOK!）  
 
 
 # 各ページの作成
