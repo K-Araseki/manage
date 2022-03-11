@@ -20,6 +20,7 @@ git push
 改行 ： 2マス空白 or ＜br＞を挿入  
 文章にリンク添付 ： [文章]（URL）  
 画像の挿入 ： だるいので省略（後で書く）
+![画像例](images/figure_aisatsu_akusyu_kyousyu.png)
 
 
 # 各ページの作成
