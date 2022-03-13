@@ -4,6 +4,7 @@ import com.giffing.wicket.spring.boot.context.scan.WicketHomePage;
 import org.apache.wicket.markup.html.WebPage;
 import org.wicketstuff.annotation.mount.MountPath;
 
+//　ログインページ（最初のページ）
 @WicketHomePage
 @MountPath("Login")
 public class LoginPage extends WebPage {
